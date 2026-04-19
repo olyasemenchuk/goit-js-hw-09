@@ -1,0 +1,32 @@
+.feedback-form {
+  margin-left: 24px;
+}
+label {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  /* width: 360px;
+    height: 72px; */
+}
+
+.input-space {
+  border: 1px solid #808080;
+  border-radius: 4px;
+  width: 340px;
+  height: 40px;
+}
+
+.btn {
+  background: #4e75ff;
+  border-radius: 8px;
+  border: none;
+  padding: 8px 16px;
+  min-width: 95px;
+  height: 40px;
+  margin-top: 16px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0.04em;
+  color: #fff;
+}
